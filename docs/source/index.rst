@@ -27,7 +27,7 @@ Contents
 
 .. toctree::
    :maxdepth: 1
-   :caption: Gallery
+   :caption: Gallery <test change 3>
    
    Gallery
 
